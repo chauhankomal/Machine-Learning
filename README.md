@@ -1,2 +1,2 @@
 # Machine-Learning  
-Assignmets of the course Machine Learning(COL-774)
+Assignments of the course Machine Learning(COL-774)
